@@ -1,7 +1,5 @@
 # InstantCalc Chrome Extension
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/your-extension-id?label=Chrome%20Web%20Store)](https://chrome.google.com/webstore/detail/your-extension-id)
-[![GitHub license](https://img.shields.io/github/license/yourusername/InstantCalc)](https://github.com/yourusername/InstantCalc)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > A dynamic inline calculator that evaluates mathematical expressions as you type
@@ -23,7 +21,7 @@
 ### From Source
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/InstantCalc.git
+   git clone https://github.com/Abhiram04-github /InstantCalc.git
    ```
 2. Open Chrome:
    - Navigate to `chrome://extensions`
@@ -50,7 +48,7 @@ Nested example: =(=(100/4)*3)       # Results in "Nested example: 75"
 
 ### Build Setup
 ```bash
-git clone https://github.com/yourusername/InstantCalc.git
+git clone https://github.com/Abhiram04-github /InstantCalc.git
 cd InstantCalc
 # No build required - pure JS implementation
 ```
@@ -94,7 +92,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## Support ❤️
 
 Found a bug or have a feature request?  
-[Open an issue](https://github.com/yourusername/InstantCalc/issues)
+[Open an issue](https://github.com/Abhiram04-github /InstantCalc/issues)
 
 ## License 📄
 
