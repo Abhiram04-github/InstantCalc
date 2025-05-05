@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "InstantCalc",
+    "version": "1.0",
+    "description": "Dynamic Inline Calculator",
+    "content_scripts": [{
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "run_at": "document_end"
+    }],
+    "icons": {
+        "128": "icon.png"
+    }
+}
